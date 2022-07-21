@@ -3,7 +3,9 @@
 
 ## Future seminars 
 
-## Past seminars (from the oldest to the latest) 
+## Past seminars (from the oldest to the latest)
+
+## Note: slides are available to the Department members [here](https://drive.switch.ch/index.php/s/cj68SvvtighGqpv) with the password communicated by email. 
 
 ### [Maud Thomas](https://sites.google.com/site/maudthomaspro/) (LPSM - Sorbonne Université) - 14th of June, 2022
 #### Generalized Pareto regression trees for extreme event analysis
@@ -25,8 +27,6 @@ Deep learning might be considered as yet another machine learning model. However
 #### Sentometrics: An Overview of Methodology and Applications
 The advent of massive amounts of textual data has spurred the development of econometric methodologies to transform qualitative sentiment data into quantitative sentiment variables and use those variables in an econometric analysis of the relationships between sentiment and other variables. This seminar will present this new research field and illustrate possible applications in economics and finance.
 
-Slides available at: 
-
 ### [Jonas Peters](http://web.math.ku.dk/~peters/) (University of Copenhagen) - 26th of April, 2022
 #### Instrumental Variables in Sparse and Dynamical Settings
 Exogenous heterogeneity, for example in the form of instrumental variables, can help us learn a system's underlying causal structure and predict the outcome of unseen intervention experiments. In this talk, we discuss this idea in a setting in which the causal effect from covariates on the response is sparse and in a setting, where the variables follow a time dependence structure. If time allows, we also briefly discuss what can be done when identifiability conditions are not satisfied.
@@ -35,13 +35,9 @@ Exogenous heterogeneity, for example in the form of instrumental variables, can 
 #### Structural properties of spectral tail processes and applications for extremal inference
 The framework of regularly varying time series allows us to describe the extremal dependence structure of multivariate (heavy-tailed) time series by means of the spectral tail process, which captures all information about the extremal dependence structure. Under the additional assumption of stationarity, it was shown in Janssen (2019) that the class of spectral tail processes is equal to the class of stochastic processes which are invariant under the so-called RS-transformation. Furthermore, this RS-transformation can be interpreted as a projection of the distribution of a stochastic process into the class of spectral tail processes. We apply this relationship in a statistical context and define a projection based estimator for extremal quantities. This new estimator now ensures that the estimated quantity is in fact derived from a spectral tail process of an underlying stationary time series. By applying and further developing the tail empirical process theory for sliding blocks estimators from Drees & Neblung (2021) we show uniform asymptotic normality of our estimators. Several simulation studies show that the new estimator has a more stable performance than previous ones. This talk is based on Drees et al. (2021).
 
-Slides available at: 
-
 ### [Jan-Peter Kucklick](https://www.uni-paderborn.de/person/77066) (Universität Paderborn) - 22nd of March, 2022
 #### Combining Multi-view Learning and Explainable Artificial Intelligence (XAI)
 What does an image tell about the real estate price? Machine learning (ML) is at the heart of many applications today, where different data types (e.g., tabular and images) are combined to leverage maximum predictive power. However, interpretability of these multi-view learning models is often reduced, leading to a trade-off between interpretability and accuracy. One possible application is real estate appraisal, where hard facts from tabular data and soft information from images are combined to train a holistic model. Nevertheless, explainability is unavoidable in such financial high-stake decision scenarios. This talk will give an overview of different multi-view modeling strategies, and it will show how to make black box systems more transparent.
-
-Slides available at: 
 
 ### [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) (LSCE) - 15th of February, 2022
 #### Evaluation of binary classifiers for environmental extremes
@@ -50,7 +46,6 @@ Joint work with Juliette Legrand (LSCE, Rennes University) and Marco Oesting (Si
 ### [Daniela Castro-Camilo](https://dcastrocamilo.com) (University of Glasgow) - 26th of November, 2021
 #### Practical strategies for GEV-based regression models for extremes
 The generalised extreme value (GEV) distribution is a three {parameter} family that describes the asymptotic behaviour of properly renormalised maxima of a sequence of independent and identically distributed random variables. If the shape parameter $\xi$ is zero, the GEV distribution has {unbounded} support, whereas if $\xi$ is positive, the limiting distribution is heavy-tailed with infinite upper endpoint but finite lower endpoint. In practical applications, we assume that the GEV family is a reasonable approximation for the distribution of maxima over blocks, and we fit it accordingly. This implies that GEV properties, such as finite lower endpoint in the case $\xi>0$, are inherited by the finite-sample maxima, which might not have bounded support. This is particularly problematic {when predicting extreme observations based on multiple and interacting covariates}. To tackle this usually overlooked issue, we propose a blended GEV distribution, which {smoothly combines the left tail of a Gumbel distribution (GEV with $\xi=0$) with the right tail of a Fr\'echet distribution (GEV with $\xi>0$)} and, therefore, has {unbounded} support. Using a Bayesian framework, we reparametrise the GEV distribution to offer a more natural interpretation of the (possibly covariate-dependent) model parameters. Independent priors over the new location and spread parameters induce a joint prior distribution for the original location and scale parameters. We introduce the concept of property-preserving penalised complexity (P$^3$C) priors and apply it to the shape parameter to preserve first and second moments. We illustrate our methods with an application to $NO_2$ pollution levels in California, which reveals the robustness of the bGEV distribution, as well as the suitability of the new parametrisation and the $P^3$C prior framework.
-
 
 ### [Julien Hambuckers](https://sites.google.com/view/julienhambuckers/accueil) (Université de Liège) - 22nd of October, 2021
 #### Automatic threshold selection for extreme value regression models
