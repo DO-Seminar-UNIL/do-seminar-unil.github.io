@@ -2,5 +2,4 @@ title: Department of Operations, University of Lausanne
 logo: unil.png
 description: This page is to be used by the members of the Department of Operations at University of Lausanne, for the seminars in Statistics and Applied Probability, organised by <a href="https://hecnet.unil.ch/hec/recherche/fiche?pnom=vchavez&dyn_lang=fr">Valérie Chavez-Demoulin</a>,  <a href="https://fabienbaeriswyl.github.io">Fabien Baeriswyl</a> (from June 2021 onwards) and  <a href="https://lindamhalla.netlify.app">Linda Mhalla</a> (from June 2021 to July 2022). 
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-katex
+
