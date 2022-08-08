@@ -5,7 +5,7 @@
 
 ### Past seminars (from the oldest to the latest)
 
-#### Note: slides and/or recordings of the talks are available to the Department members [here](https://drive.switch.ch/index.php/s/cj68SvvtighGqpv) with the password communicated by email. 
+Note: slides and/or recordings of the talks are available to the Department members [here](https://drive.switch.ch/index.php/s/cj68SvvtighGqpv) with the password communicated by email. 
 
 ### [Maud Thomas](https://sites.google.com/site/maudthomaspro/) (LPSM - Sorbonne Université) - 14th of June, 2022
 #### Generalized Pareto regression trees for extreme event analysis
