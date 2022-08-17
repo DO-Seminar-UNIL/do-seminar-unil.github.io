@@ -3,6 +3,28 @@
 
 ### Future seminars 
 
+### DO Statistics and Applied Probability day - 9th of September, 2022 in Anthropole 5146 
+
+We will meet on the 9th of September, from 9:30 to 14:15, to listen to 3 talks by Maximilian Aigner, Ilia Azizi and Fabien Baeriswyl. The program is the following: 
+
+- 9:30 - 10:00: juice and coffee
+- 10:00 - 10:45: Fabien Baeriswyl - From (approximate) large deviation principles to precise large deviation results 
+- 10:45 - 11:30: Maximilian Aigner - Patient flow modelling  
+- 11:30 - 13:15: usual lunch
+- 13:15 - 13:45: Ilia Azizi - 
+
+Abstracts of the talks can be found below. 
+
+#### Maximilian Aigner - Patient flow modelling 
+#### We consider modelling and prediction of patient flows in a large emergency department. To handle various difficulties including unknown triage policies we propose a flexible point process modelling framework. Visualisations and recommendations for hospital policy are derived by simulation.
+
+#### Ilia Azizi - title TBD 
+#### Features with missing instances can negatively impact the performance of machine learning models. Information Extraction (IE) can improve the availability of tabular data by identifying relevant information from unstructured textual descriptions. This project demonstrated the application of IE on descriptions of online real estate listings, whereby the required missing values are retrieved from the text. Inspired by question-answering tasks, the aim was to recover these values by asking a set of questions. We tested two ways to achieve this goal. The first one focuses on a model specific to the language of the description (French) to perform IE, while the second translates the descriptions into English before IE. The project compared the performance of both approaches while delivering insights on how the formulation of the questions can impact the effectiveness of Q&A models.
+Additional note: The talk discusses a small project that I did for [my doctoral course](https://edu.epfl.ch/coursebook/fr/human-language-technology-applications-to-information-access-EE-724) at EPFL.  There's also a supplementary demo which can be found here https://huggingface.co/spaces/unco3892/real_estate_ie. 
+
+#### Fabien Baeriswyl - From (approximate) large deviation principles to precise large deviation results 
+#### In this talk, we discuss how to use (and reconciliate) the classical theory of large deviations (originating from works of H. Cramér, F. Lundberg and S.R. Varadhan) to derive expressions usually referred to as precise large deviation results (originating from works of SV Nagaev, AV Nagaev and T. Mikosch). As an example of this unified approach, we underline how these results were used to establish tail asymptotics of functionals of certain cluster processes. This is a joint work with Valérie Chavez-Demoulin and Olivier Wintenberger. 
+
 ### Past seminars (from the oldest to the latest)
 
 Note: slides and/or recordings of the talks are available to the Department members [here](https://drive.switch.ch/index.php/s/cj68SvvtighGqpv) with the password communicated by email. 
