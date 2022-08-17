@@ -11,7 +11,7 @@ We will meet on the 9th of September, from 9:30 to 14:15, to listen to 3 talks b
 - 10:00 - 10:45: Fabien Baeriswyl - From (approximate) large deviation principles to precise large deviation results 
 - 10:45 - 11:30: Maximilian Aigner - Patient flow modelling  
 - 11:30 - 13:15: usual lunch
-- 13:15 - 13:45: Ilia Azizi - 
+- 13:15 - 13:45: Ilia Azizi - title TBD
 
 Abstracts of the talks can be found below. 
 
