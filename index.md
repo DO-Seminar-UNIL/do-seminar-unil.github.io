@@ -1,6 +1,8 @@
 ## Department of Operations, UNIL
 ## Seminars in Statistics and Applied Probability (from June 2021 onwards) 
 
+<style>body {text-align: justify}</style>
+
 ### Future seminars 
 
 ### DO Statistics and Applied Probability day - 9th of September, 2022 in Anthropole 5146 
