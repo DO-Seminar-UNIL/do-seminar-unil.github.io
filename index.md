@@ -15,6 +15,8 @@ We will meet on the 9th of September, from 9:30 to 14:15, to listen to 3 talks b
 - 11:30 - 13:15: usual lunch
 - 13:15 - 13:45: Ilia Azizi - Information Extraction from the description of real estate listings
 
+Zoom link if needed: [click here](https://unil.zoom.us/j/92589956358)
+
 Abstracts of the talks can be found below. 
 
 #### Maximilian Aigner - Patient flow modelling 
