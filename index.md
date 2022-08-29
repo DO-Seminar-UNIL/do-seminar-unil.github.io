@@ -5,6 +5,10 @@
 
 ### Future seminars 
 
+### [Anne-Laure Fougères](http://math.univ-lyon1.fr/~fougeres/) (Université Claude Bernard Lyon 1) - 5th of October, 2022 in Géopolis 2208, 14:00-15:00 
+
+Title and abstract to follow. 
+
 ### DO Statistics and Applied Probability day - 9th of September, 2022 in Anthropole 5146 
 
 We will meet on the 9th of September, from 9:30 to 14:15, to listen to 3 talks by Maximilian Aigner, Ilia Azizi and Fabien Baeriswyl. The program is the following: 
@@ -33,7 +37,7 @@ In this talk, we discuss how to use (and reconciliate) the classical theory of l
 
 Note: slides and/or recordings of the talks are available to the Department members [here](https://drive.switch.ch/index.php/s/cj68SvvtighGqpv) with the password communicated by email. 
 
-### [Maud Thomas](https://sites.google.com/site/maudthomaspro/) (LPSM - Sorbonne Université) - 14th of June, 2022
+### [Maud Thomas](https://sites.google.com/site/maudthomaspro/) (Sorbonne Université) - 14th of June, 2022
 #### Generalized Pareto regression trees for extreme event analysis
 We provide finite sample results to assess the consistency of Generalized Pareto regression trees, as tools to perform extreme value regression. The results that we provide are obtained from concentration inequalities, and are valid for a finite sample size, taking into account a misspecification bias that arises from the use of a "Peaks over Threshold'' approach. The properties that we derive also legitimate the pruning strategies (i.e. the model selection rules) used to select a proper tree that achieves compromise between bias and variance. The methodology is illustrated through a simulation study, and a real data application in insurance against natural disasters. joint work with S. Farkas, A. Heranval and O. Lopez.
 
@@ -77,7 +81,7 @@ The generalised extreme value (GEV) distribution is a three {parameter} family t
 #### Automatic threshold selection for extreme value regression models
 We investigate the problem of threshold selection in the context of the extreme value regression model pioneered by Davison and Smith (1990), and finding its use in the analysis of factors affecting the likelihood of extremes events. In this regression context, the threshold choice is a non-trivial task and can have important consequences on the final estimates, since it should also depend on the covariates. We propose an efficient solution to automatically estimate these thresholds with the help of conditional splicing distributions, in the idea of the distributional regression machinery (Rigby and Stasinopoulos, 2005). We introduce a weighted likelihood estimator robust to a misspecification of the density of the body of the distribution that additionally accounts for uncertainty stemming from the threshold choice and respect the threshold stability property. The method is latter used in two applications: the estimation of the downside risks of around 10,000 hedge funds characterized by short available historical data, and the characterization of extreme climate events at different weather stations.
 
-### [Gloria Buriticá](https://gburitica.github.io) (LPSM - Sorbonne Université) - 10th of November, 2021
+### [Gloria Buriticá](https://gburitica.github.io) (Sorbonne Université) - 10th of November, 2021
 #### Assessing time dependence of extremes: inference procedures for time series with consecutive extreme events
 In climate sciences or finance, it is common for an extreme event to trigger a sequence of high records in a short period. Furthermore, precipitation measures and stock records are heavy-tailed thus extreme value theory is typically used to plan for societal and economic risk. However, the assessment of time dependence is not systematic, even in the stationary framework. We consider stationary regularly varying time series. First, we review classical methods to address the time dependences of extremes based on the identification of short periods with consecutive exceedances of a high level. In this case, the extremal index gives a summary of the clustering effect. Second, we generalize this notion considering short periods, or blocks, with lp−norm above a high threshold and derive large deviation principles of blocks. Our main goal is to promote the choice p < ∞, rather than the classical one for p = ∞, where the bias is more difficult to control. We show the theory developed can be used to improve inference of functionals acting on extreme blocks. For example, the extremal index has an interpretation in this way. It can also be applied to compute accurate confidence intervals of extreme return levels.
 
@@ -85,6 +89,6 @@ In climate sciences or finance, it is common for an extreme event to trigger a s
 #### Extremes of stationary regularly varying time series and random fields
 We will present a framework for describing the asymptotic behavior of high-level exceedances for stationary time series and random fields whose finite-dimensional distributions are regularly varying and whose exceedances occur in clusters. The main tools are the theory of point processes and the notion of the so-called tail process. The latter allows one to fully describe the asymptotic distribution of the extremal clusters using the language of standard Palm theory. We will illustrate the general theory on a couple of time series and random field models.
 
-### [Olivier Wintenberger](http://wintenberger.fr) (LPSM - Sorbonne Université) - 25th of June, 2021
+### [Olivier Wintenberger](http://wintenberger.fr) (Sorbonne Université) - 25th of June, 2021
 #### Multivariate Sparse Clustering for Extremes
 Studying the tail dependence of multivariate extremes is a major challenge in extreme value analysis. Under a regular variation assumption, the dependence structure of the positive extremes is characterized by a measure, the spectral measure, defined on the positive orthant of the unit sphere. This measure gathers information on the localization of large events and has often a sparse support since such events do not simultaneously occur in all directions. However, it is defined via weak convergence which does not provide a natural way to capture this sparsity structure. In this talk, we introduce the notion of sparse regular variation which allows to better learn the tail structure of a random vector X. We use this concept in a statistical framework and provide a procedure which captures clusters of extremal coordinates of X. This approach also includes the identification of a threshold above which the values taken by X are considered as extreme. It leads to an efficient algorithm called MUSCLE which we illustrate on numerical experiments. We end our presentation with an application to extreme variability for wind and financial data. This work is joint with with N. Meyer.
