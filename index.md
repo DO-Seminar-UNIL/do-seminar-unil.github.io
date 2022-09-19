@@ -6,8 +6,8 @@
 ### Future seminars 
 
 ### [Anne-Laure Fougères](http://math.univ-lyon1.fr/~fougeres/) (Université Claude Bernard Lyon 1) - 5th of October, 2022 in Géopolis 2208, 14:00-15:00 
-
-Title and abstract to follow. 
+#### Some insights into probabilistic forecasts and their evaluation for extremes
+In numerical weather prediction,  probabilistic forecasts are now standard tools, and their verification is an important task. This question remains particularly challenging when one focuses on extreme events.  We will discuss the limits of the classical methodologies, and propose a tool combining the well-known Continuous Ranked Probability Score (CRPS) and extreme value theory to address extreme events verification. This is a joint work with Maxime Taillardat, Raphaël de Fondeville and Philippe Naveau.
 
 ### DO Statistics and Applied Probability day - 9th of September, 2022 in Anthropole 5146 
 
